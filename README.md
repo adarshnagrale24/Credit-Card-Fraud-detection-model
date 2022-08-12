@@ -1,0 +1,2 @@
+# Cradit_card_fraud_detection_model_using-_logistic_regression
+Cradit_card_fraud_detection_using _logistic_regression and KNN algos and proving logistic regression gives better results
